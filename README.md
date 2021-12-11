@@ -84,12 +84,12 @@ make our lives a little easier, unlike back in the day of a paper trail.</P>
 
                           <h1>Ideal job</h1>
 
-<h2>3D Artist</h2>
-
 <div class="3D Artist job advert">
         <div id="3D Artist job advert">
             <img src="3D Artist job advert.pdf"/>
-    <div/>
+      </div>
+
+<h2>3D Artist</h2>
 
 <h4>Apply for 3D Artist at Aurecon</h4>
 

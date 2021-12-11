@@ -69,7 +69,7 @@ liked the idea of swapping and changing between full time and part time degree.
 I was originally looking at cert 3 in Information technology at TAFE, but I
 thought why do Certificate 3? why not see what university has to offer.</P>
 
-                    <h3>What do you expect to learn during your studies?</P>
+                    <h3>What do you expect to learn during your studies?</h3>
 
 <p>I expect to learn about computers and stream into a particular area of interest
 once enrolled into the Bachelor of IT. I am still unsure about where I am headed
@@ -82,8 +82,7 @@ make our lives a little easier, unlike back in the day of a paper trail.</P>
 
 <h2>3D Artist</h2>
 
-      <div id="Job advert screen shot">
-            <img scr"Job advert screen shot"/>
+            <img scr"Job advert screen shot.png"/>
 
 <h4>Apply for 3D Artist at Aurecon<h4>
 
@@ -178,10 +177,6 @@ expertise, we co-create innovative visualisation solutions with our clients.</p>
 experimentation. We work across diverse projects for a broad range of clients
 and sectors, and throughout the project lifecycle.</p>
 
- screen shot of job advert below:-
-    
-            <img src"Job advert screen shot.png"/>
-
 
 <p>Description of position in my own words: -<p>
 
@@ -194,10 +189,9 @@ technologies and for various clients and sectors.</p>
 
 <h2> Test One</h2>
 
-<a href="http://www.16personalities.com"target="_blank">www.16personalities.com</a>
+<p><a href="http://www.16personalities.com"target="_blank">www.16personalities.com</a></p>
 
-
-Your personality type is:
+<p>Your personality type is:</p>
 
 <h4>ESFJ-A</h4>
 

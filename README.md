@@ -178,21 +178,9 @@ expertise, we co-create innovative visualisation solutions with our clients.</p>
 experimentation. We work across diverse projects for a broad range of clients
 and sectors, and throughout the project lifecycle.</p>
 
-<h4>Want to know more?</h4>
-
-Check out the Unsigned Studio website:
-
-<a href="https://www.unsignedstudio.com">
-
-<p>You can learn more about what it's like to work at Aurecon by visiting the
-careers section of our website.</p>
-
-<p>If you are intrigued or excited by what you have read, then we want to hear from
-you. Apply now!</p>
-
-<p>See below for snap shot of advert through seek.com.au</p>
-
-            <img src"Job advert screen shot"/>
+ screen shot of job advert below:-
+    
+            <img src"Job advert screen shot.png"/>
 
 
 <p>Description of position in my own words: -<p>

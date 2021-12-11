@@ -39,8 +39,6 @@ to the world wide web. It was then that my imagination was running wild at the
 possibilities of the future and what could potentially happen with computers and
 information technology.</p>
 
-        <img scr="first mobile phone.jpg"/>
-
 
               <h3>When did your interest in IT start?</h3>
 
@@ -88,11 +86,10 @@ make our lives a little easier, unlike back in the day of a paper trail.</P>
 
 <h2>3D Artist</h2>
 
-<div class="Job advert screen shot">
-        <div id="Job advert screen shot">
-            <img src="Job advert screen shot.png"/>
-      </div>
-            <img scr"Job advert screen shot.png"/>
+<div class="3D Artist job advert">
+        <div id="3D Artist job advert">
+            <img src="3D Artist job advert.pdf"/>
+    <div/>
 
 <h4>Apply for 3D Artist at Aurecon</h4>
 

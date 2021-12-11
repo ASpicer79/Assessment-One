@@ -88,9 +88,13 @@ make our lives a little easier, unlike back in the day of a paper trail.</P>
 
 <h2>3D Artist</h2>
 
+<div class="Job advert screen shot">
+        <div id="Job advert screen shot">
+            <img src="Job advert screen shot.png"/>
+      </div>
             <img scr"Job advert screen shot.png"/>
 
-<h4>Apply for 3D Artist at Aurecon<h4>
+<h4>Apply for 3D Artist at Aurecon</h4>
 
 <p>Just imagine your future with us…</P>
 
@@ -103,22 +107,22 @@ Workplace Gender Equality Agency (Australia), and are a founding member of The
 Diversity Agenda in New Zealand. We also have a Reconciliation Action Plan and
 hold Silver Employer status in the Australian Workplace Equality Index for
 LGBTI+ inclusion. Across our company, inclusive leadership is role modelled from
-the top and is an expectation of all.</P>
+the top and is an expectation of all.</p>
 
-<p>*Our flexible way of working includes our flexible start and finish times,
+<p>Our flexible way of working includes our flexible start and finish times,
 working from home, part time and job share options. Aurecon also offers 3 weeks
 paid parental leave, two weeks paid partner leave, and other health services and
-benefits.*</P>
+benefits.</p>
 
-<p>*If this is how you would like to work, you'd be a good fit, we'd love to hear
+<p>If this is how you would like to work, you'd be a good fit, we'd love to hear
 from you. We welcome people of all identities from all background and with
 diverse accessibility needs. We're curious about your career path and how we can
-support you to be your best.*</P>
+support you to be your best.</p>
 
 <p>Innovation, eminence and digital are at the heart of everything we do. Our
 digital team consist of Creative tech and Visualisation, Data analytics, Digital
 Enablement and Digital Automation. Unsigned Studio is the visualisation team,
-delivering films, stills, VR and creative projects for our clients.</P>
+delivering films, stills, VR and creative projects for our clients.</p>
 
 <h4>The Role</h4>
 
@@ -131,36 +135,36 @@ communication.</p>
 
 <p>Here are the key things you will do to 'bring ideas to life'.</p>
 
--   Model, texture, light, animate and render 3D scenes in a 3dsmax/Vray
-    pipeline, both still and animated.
+-   <p>Model, texture, light, animate and render 3D scenes in a 3dsmax/Vray
+    pipeline, both still and animated.</p>
 
--   Keyframing and rigging for bespoke animated sequences e.g. stylized diagram
-    sequences, transport/mechanical animation, construction staging animation.
+-   <p>Keyframing and rigging for bespoke animated sequences e.g. stylized diagram
+    sequences, transport/mechanical animation, construction staging animation.</p>
 
--   Working with 2D motion graphics artists, follow style guides and animate 3D
-    motion graphic sequences.
+-   <p>Working with 2D motion graphics artists, follow style guides and animate 3D
+    motion graphic sequences.</p>
 
--   Work as part of a close project team and follow existing studio pipelines.
+-   <p>Work as part of a close project team and follow existing studio pipelines.</p>
 
--   Assisting on projects and contributing creatively and technically.
+-   <p>Assisting on projects and contributing creatively and technically.</p>
 
 <h4>What we are looking for</h4>
 
--   Experience in architectural visualisation and animation shots with a broad
-    generalist skillset is essential.
+-   <p>Experience in architectural visualisation and animation shots with a broad
+    generalist skillset is essential.</p>
 
--   A vivid imagination and a dedication to excellence with an ability to learn
-    on the job
+-   <p>A vivid imagination and a dedication to excellence with an ability to learn
+    on the job</p>
 
--   Knowledge of 3DS Max, Vray and Adobe Suite.
+-   <p>Knowledge of 3DS Max, Vray and Adobe Suite.</p>
 
--   Experience in keyframing and animation.
+-   <p>Experience in keyframing and animation.</p>
 
--   Postproduction skills for still images and animated shots is desirable as
-    well as experience in Realtime 3D using Unity and/or Unreal
+-   <p>Postproduction skills for still images and animated shots is desirable as
+    well as experience in Realtime 3D using Unity and/or Unreal.</p>
 
--   A knowledge of post-production workflow in fusion and the use of 3D plugins
-    such as Forest, Railclone, Anima, Phoenix, Tyflow is a bonus.
+-   <p>A knowledge of post-production workflow in fusion and the use of 3D plugins
+    such as Forest, Railclone, Anima, Phoenix, Tyflow is a bonus.</p>
 
 <p>We value the difference each team member brings, and we look for people who have
 had a broad range of experiences and a growth and learning mindset.</p>
@@ -197,9 +201,10 @@ technologies and for various clients and sectors.</p>
 
 <p><a href="http://www.16personalities.com"target="_blank">www.16personalities.com</a></p>
 
+
 <p>Your personality type is:</p>
 
-<h4>ESFJ-A</h4>
+                            <h4>ESFJ-A</h4>
 
 <h5>Mind</h5>
 

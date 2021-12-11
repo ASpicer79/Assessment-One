@@ -1,16 +1,26 @@
-![A picture containing person, glasses, indoor, smiling Description
-automatically generated](media/24cb541be489971de595f2277c4c98b5.jpg)
+<html>
+  <head>
+      <title>Assessmennt One</title>
+<div class"mainDetails">        
+      <div class="profile pic">
+        <div id="profile pic">
+            <img src="profile pic.jpg"/>
+      </div>
+      <div id="name">
+            <h1> Personal Information</h1>
+      <div>
 
-Personal Information
+      <div id="contact details">
 
-Name: Alana Spicer
+            <ul>
 
-Student number: s3933582
+              <h2>Name: Alana Spicer</h2>
 
-Student email address:
-[s3933582@student.rmit.edu.au](mailto:s3933582@student.rmit.edu.au)
+              <h2>Student number: s3933582</h2>
 
-I am a triplet born and raised as a twin as one triplet sadly passed away just
+              <h2>Student email address:<a href="mailto:s3933582@student.rmit.edu.au"target="_blank'>student@rmit.edu.au</a></li>"</h2>
+
+<p> I am a triplet born and raised as a twin as one triplet sadly passed away just
 after birth. I am a vibrant mum of two teenagers, and I think an awesome mum and
 wife, well I keep the household running smoothly at least and no one dies
 throughout any given day!!!. I am Australian born, born in Brisbane, Queensland.
@@ -18,116 +28,104 @@ I completed year 12 in 1997. I have completed a certificate 3 in Dental
 Assisting, Certificate 3 in Sterilisation and back many years ago a Certificate
 2 in Information Technology. I am fluent in the English language maybe some
 Australian slang thrown in . I crochet in my spare time and enjoy playing the
-Xbox.
+Xbox.</p>
 
-Interests in IT
+              <h1>Interests in IT</h1>
 
-What is your interest in IT?
+              <h3>What is your interest in IT?</h3>
 
-![A black calculator on a white surface Description automatically generated with
-medium confidence](media/25aba1b059d83677e3f7a27eafe39169.jpeg)My interest in IT
-started back whilst I was at school in 1995/ 1996 studying computers as a
+<p>My interest in Information Technology started back whilst I was at school in 1995/ 1996 studying computers as a
 subject for high school. I remember the teacher walking into the classroom with
 a large box (mobile phone back then) and then somewhere in the lesson connecting
 to the world wide web. It was then that my imagination was running wild at the
 possibilities of the future and what could potentially happen with computers and
-information technology.
+information technology.</p>
 
-When did your interest in IT start?
+              <h3>When did your interest in IT start?</h3>
 
-My interest in IT started in a computing subject at high school in 1995 or 1996.
+<p>My interest in IT started in a computing subject at high school in 1995 or 1996.
 Shortly after I acquired my first mobile phone. This was my first mobile phone.
 I remember this magic moment in technology like it was yesterday, if only I had
-kept the phone to compare it to today technology.
+kept the phone to compare it to today technology.</p>
 
-Was there a particular event or person that sparked your interest?
+                <h3>Was there a particular event or person that sparked your interest?</h3>
 
-My computer teacher seemed so knowledgeable with computers, he was so passionate
-about the subject that he and the whole world wide web sparked my interest.
+<p>My computer teacher seemed so knowledgeable with computers, he was so passionate
+about the subject that he and the whole world wide web sparked my interest.</P>
 
-Outline your IT experience?
+                <h3>Outline your IT experience?</h3>
 
-I don’t really have any experience in IT apart from my everyday use since that
+<p>I don’t really have any experience in IT apart from my everyday use since that
 time at school in my computing class. I guess I use IT every day, to purchase
 good at the shops, use of my smart phone every day. Using the laptop to type
 this assessment. I guess I use IT more than I realise for tasks that we complete
-everyday even without realising.
+everyday even without realising.</P>
 
-Why did you choose to come to RMIT?
+                  <h3>Why did you choose to come to RMIT?</h3>
 
-I was just googling, as we do on the internet. I have always been interested in
+<p>I was just googling, as we do on the internet. I have always been interested in
 computers and RMIT was the first page that came up. I clicked and enrolled. I
 spoke with a customer service officer from OUA (Open Universities Australia). I
 liked the idea of swapping and changing between full time and part time degree.
 I was originally looking at cert 3 in Information technology at TAFE, but I
-thought why do Certificate 3? why not see what university has to offer.
+thought why do Certificate 3? why not see what university has to offer.</P>
 
-What do you expect to learn during your studies?
+                    <h3>What do you expect to learn during your studies?</P>
 
-I expect to learn about computers and stream into a particular area of interest
+<p>I expect to learn about computers and stream into a particular area of interest
 once enrolled into the Bachelor of IT. I am still unsure about where I am headed
 in the IT world. I have worked with 3D graphics and bringing them to life from
 architect plans. I am sort of interested in help desk, cyber security, coding,
 graphics and gaming all at the same time. I just like computers and how they
-make our lives a little easier, unlike back in the day of a paper trail.
+make our lives a little easier, unlike back in the day of a paper trail.</P>
 
-Ideal job
+                          <h1>Ideal job</h1>
 
-**3D Artist**
+<h2>3D Artist</h2>
 
-![](media/ac794361bc6a4c62f475fb74e2a57eb2.jpeg)
+      <div id="Job advert screen shot">
+            <img scr"Job advert screen shot"/>
 
-![A picture containing text, clipart Description automatically
-generated](media/bde995b70963d0bdd1960c145c45755d.jpeg)
+<h4>Apply for 3D Artist at Aurecon<h4>
 
-**3D Artist**
+<p>Just imagine your future with us…</P>
 
-Apply for 3D Artist at Aurecon
-
-Apply
-
-Save 3D Artist at AureconSave
-
-Share
-
-**Just imagine your future with us…**
-
-Aurecon is committed to creating an inclusive culture that embraces diversity,
+<p>Aurecon is committed to creating an inclusive culture that embraces diversity,
 equity and inclusion - and we provide our people with flexible working
-opportunities.
+opportunities.</p>
 
-Aurecon is an Employer of Choice for Gender Equality, as awarded by the
+<p>Aurecon is an Employer of Choice for Gender Equality, as awarded by the
 Workplace Gender Equality Agency (Australia), and are a founding member of The
 Diversity Agenda in New Zealand. We also have a Reconciliation Action Plan and
 hold Silver Employer status in the Australian Workplace Equality Index for
 LGBTI+ inclusion. Across our company, inclusive leadership is role modelled from
-the top and is an expectation of all.
+the top and is an expectation of all.</P>
 
-*Our flexible way of working includes our flexible start and finish times,
+<p>*Our flexible way of working includes our flexible start and finish times,
 working from home, part time and job share options. Aurecon also offers 3 weeks
 paid parental leave, two weeks paid partner leave, and other health services and
-benefits.*
+benefits.*</P>
 
-*If this is how you would like to work, you'd be a good fit, we'd love to hear
+<p>*If this is how you would like to work, you'd be a good fit, we'd love to hear
 from you. We welcome people of all identities from all background and with
 diverse accessibility needs. We're curious about your career path and how we can
-support you to be your best.*
+support you to be your best.*</P>
 
-Innovation, eminence and digital are at the heart of everything we do. Our
+<p>Innovation, eminence and digital are at the heart of everything we do. Our
 digital team consist of Creative tech and Visualisation, Data analytics, Digital
 Enablement and Digital Automation. Unsigned Studio is the visualisation team,
-delivering films, stills, VR and creative projects for our clients.
+delivering films, stills, VR and creative projects for our clients.</P>
 
-**The Role**
+<h4>The Role</h4>
 
-We have an exciting opportunity for a mid-level 3D Artist to join Unsigned
+<p>We have an exciting opportunity for a mid-level 3D Artist to join Unsigned
 Studio. Our team of creative professionals use visualisation, interactive, and
 creative technologies across diverse projects for a broad range of clients and
 sectors, and throughout the project life cycle. This role covers all facets of
 production including stills, film, interactive, architectural design and
-communication.
+communication.</p>
 
-Here are the key things you will do to 'bring ideas to life'.
+<p>Here are the key things you will do to 'bring ideas to life'.</p>
 
 -   Model, texture, light, animate and render 3D scenes in a 3dsmax/Vray
     pipeline, both still and animated.
@@ -142,7 +140,7 @@ Here are the key things you will do to 'bring ideas to life'.
 
 -   Assisting on projects and contributing creatively and technically.
 
-**What we are looking for**
+<h4>What we are looking for</h4>
 
 -   Experience in architectural visualisation and animation shots with a broad
     generalist skillset is essential.
@@ -160,128 +158,110 @@ Here are the key things you will do to 'bring ideas to life'.
 -   A knowledge of post-production workflow in fusion and the use of 3D plugins
     such as Forest, Railclone, Anima, Phoenix, Tyflow is a bonus.
 
-We value the difference each team member brings, and we look for people who have
-had a broad range of experiences and a growth and learning mindset.
+<p>We value the difference each team member brings, and we look for people who have
+had a broad range of experiences and a growth and learning mindset.</p>
 
-**About us**
+<h4>About us</h4>
 
-**We've re-imagined engineering.**
+<h3>We've re-imagined engineering.</h3>
 
-Unsigned studio is a global 3D visualisation studio within Aurecon.
+<p>Unsigned studio is a global 3D visualisation studio within Aurecon.</p>
 
-We are a team of creative professionals that enable people to experience and
+<p>We are a team of creative professionals that enable people to experience and
 explore urban environments and infrastructure like never before. We make
-journeys unforgettable and tell stories that connect.
+journeys unforgettable and tell stories that connect.</p>
 
-We are a studio within global engineering and infrastructure advisory business -
+<p>We are a studio within global engineering and infrastructure advisory business -
 Aurecon. Our clients' ideas drive what we do. Drawing on our deep pool of
-expertise, we co-create innovative visualisation solutions with our clients.
+expertise, we co-create innovative visualisation solutions with our clients.</p>
 
-Our work is underpinned by strategy, storytelling, creative technology and
+<p>Our work is underpinned by strategy, storytelling, creative technology and
 experimentation. We work across diverse projects for a broad range of clients
-and sectors, and throughout the project lifecycle.
+and sectors, and throughout the project lifecycle.</p>
 
-**Want to know more?**
+<h4>Want to know more?</h4>
 
-Check out the Unsigned Studio website:
+<p>Check out the Unsigned Studio website:</P>
 
-**https://www.unsignedstudio.com/**
+<a href="https://www.unsignedstudio.com/"target"_blank">www.unsignedstudio.com</a>
 
-You can learn more about what it's like to work at Aurecon by visiting the
-careers section of our website.
+<p>You can learn more about what it's like to work at Aurecon by visiting the
+careers section of our website.</p>
 
-If you are intrigued or excited by what you have read, then we want to hear from
-you. Apply now!
+<p>If you are intrigued or excited by what you have read, then we want to hear from
+you. Apply now!</p>
 
-See below for snap shot of advert through seek.com.au
+<p>See below for snap shot of advert through seek.com.au</p>
 
-![Graphical user interface, text, application, email Description automatically
-generated](media/8c82e3bcb0e77e61c740d64c97f81177.png)
+            <img src"Job advert screen shot"/>
 
-Link for for ideal job [3D Artist Job in Melbourne -
-SEEK](https://www.seek.com.au/job/54790587?type=standout#searchRequestToken=f83bd2c3-b3fe-488c-ad56-97b8d28527d4)
 
-Description of position in my own words: -
+<p>Description of position in my own words: -<p>
 
-The position of 3D artist which is advertised for a company called unsigned
+<p>The position of 3D artist which is advertised for a company called unsigned
 studio which is team within Aurecon. The position of 3D artist must utilise his
 or her visualisation, creative and 3D modelling skills across a broad range of
-technologies and for various clients and sectors.
+technologies and for various clients and sectors.</p>
 
-Personal Profile
+<h1>Personal Profile</h1>
 
-[www.16personalities.com](http://www.16personalities.com)
+<h2> Test One</h2>
 
-Link to results
+<a href="http://www.16personalities.com"target="_blank">www.16personalities.com</a>
 
-[Introduction \| Consul (ESFJ) Personality \|
-16Personalities](https://www.16personalities.com/esfj-personality)
 
 Your personality type is:
 
-**ESFJ-A**
+<h4>ESFJ-A</h4>
 
-**Mind**
+<h5>Mind</h5>
 
 This trait determines how we interact with our environment.
 
-**52%**
+52%- extraverted
 
-**48%**
+48% - intraverted
 
-**EXTRAVERTED INTROVERTED**
-
-**Energy**
+<h5>Energy</h5>
 
 This trait shows where we direct our mental energy.
 
-**41%**
+41% - intuitive
 
-**59%**
+59%- observant
 
-**INTUITIVE OBSERVANT**
-
-**Nature**
+<h5>Nature</h5>
 
 This trait determines how we make decisions and cope with emotions.
 
-**36%**
+36% - thinking
 
-**64%**
+64% - feeling
 
-**THINKING FEELING**
-
-**Tactics**
+<h5>Tactics</h5>
 
 This trait reflects our approach to work, planning and decision-making.
 
-**51%**
+51% - judging
 
-**49%**
+49% - prospecting
 
-**JUDGING PROSPECTING**
-
-**Identity**
+<h5>Identity</h5>
 
 This trait underpins all others, showing how confident we are in our abilities
 and decisions.
 
-**71%**
+71% - assertive
 
-**29%**
+29% - turbulent
 
-**ASSERTIVE TURBULENT**
+<h2>Test Two</h2>
 
-Online learning style test
+<a href="https://www.thoughtco.com/learning-style-quiz-4076781?quizResult=84308d0b"target"_blank">www.thoughtco.com</a>
 
-Link to test
+<p>Results of Test Two</p>
 
-[Learning Style Quiz
-(thoughtco.com)](https://www.thoughtco.com/learning-style-quiz-4076781?quizResult=84308d0b)
-
-Results: -
-
-You got: You Are a Strong Tactile Learner!
+<p>You got: You Are a Strong Tactile Learner!
 
 As a tactile learner, you like to get active as you learn.
 
@@ -290,24 +270,25 @@ activities that get you out of your chair. You remember things best once you've
 experienced them.
 
 You don't understand things so well if you [only
-read](https://www.thoughtco.com/how-to-read-and-remember-1857119) about them.
+read about them.
 Reading usually bores you. You may talk with your hands. You might have been
 called a poor listener or a fidgety student, because sitting too long makes you
 nuts! You probably sit in the back of the class. You can benefit by using role
 playing methods when you study. You could also benefit from making your own
-flashcards.
+flashcards.</p>
 
-Verbal reasoning test
+<h2>Test Three</h2>
+
+<h3>Verbal reasoning test<h3>
 
 Link to test
+<a href="https://my-personality-test.com/big-5"target"_blank">www.my-personality-test.com</a>
 
-[Big 5 (my-personality-test.com)](https://my-personality-test.com/big-5)
+<p>Results: -</p>
 
-Results: -
+<h5>Openness to Experience – Medium Characteristics</h5>
 
-**Openness to Experience – Medium Characteristics**
-
-You have a medium level of openness to experience. At times, you can be very
+<p>You have a medium level of openness to experience. At times, you can be very
 creative, curious, and adventurous. At other times, you prefer routine. You are
 able to find a great balance between ideas and practicality.
 
@@ -317,11 +298,11 @@ You are able to handle whatever life throws at you.
 
 People who are moderate in openness to experience are well-suited for careers
 that balance creativity with stability – for example, journalism, photography,
-graphic design, or research.
+graphic design, or research.</p>
 
-**Extraversion – Low Characteristics**
+<h5>Extraversion – Low Characteristics</h5>
 
-You are an introvert. While you enjoy spending time with others, you truly get
+<p>You are an introvert. While you enjoy spending time with others, you truly get
 your energy by spending time by yourself. Spending too much time around others
 leaves you feeling tired and drained. Others describe you as thoughtful and
 quiet. Being the center of attention usually makes you feel uncomfortable.
@@ -339,11 +320,11 @@ Introverts do best in jobs that allow them to spend most of the day alone. If
 put into a job that requires too much time spent with others, introverts leave
 work feeling completely exhausted. The best jobs for introverts include those
 involving art, technology, or science – such as a photographer, lab worker, or
-computer programmer.
+computer programmer.</p>
 
-**Neuroticism – Medium Characteristics**
+<h5>Neuroticism – Medium Characteristics</h5>
 
-You are moderately neurotic – at times, you can be anxious or emotional, while
+<p>You are moderately neurotic – at times, you can be anxious or emotional, while
 at other times, you are relaxed and calm. Your mood may fluctuate slightly,
 depending on the day.
 
@@ -359,43 +340,43 @@ for you. People who are moderate in neuroticism make great employees and
 supervisors.
 
 People who are moderately neurotic typically do well in helping careers, such as
-counselling or public service.
+counselling or public service.</p>
 
-**What do the results of these tests mean for you?**
+<h5>What do the results of these tests mean for you?</h5>
 
-I am extraverted but I also can be introverted and listen to people when and
+<p>I am extraverted but I also can be introverted and listen to people when and
 where needed. I am willing to follow people more, but I can show leadership when
 I need to. I enjoy practical learning and hands on learning. I enjoy learning in
-groups. I am also a visual learner not so much textbook based learner.
+groups. I am also a visual learner not so much textbook based learner.</p>
 
-**How do you think these results may influence your behaviour in a team?**
+<h5>How do you think these results may influence your behaviour in a team?</h5>
 
-These results can influence behaviour in a team by allowing me to know my
+<p>These results can influence behaviour in a team by allowing me to know my
 strengths and weaknesses when working in a team. It allows me to know what tasks
 I would be best at completing and what role I would fit into within the team. I
-learn best by experiencing them.
+learn best by experiencing them.</p>
 
-**How should you take this into account when forming a team?**
+<h5>How should you take this into account when forming a team?</h5>
 
-These results are only a guide not gospel, but they should be noted down and
+<p>These results are only a guide not gospel, but they should be noted down and
 realised when forming a team as I would perform best by not being a leader, a
 follower would suit me best. I am happy to follow direction and then be
-delegated a task, I will then complete it.
+delegated a task, I will then complete it.</p>
 
-Project Idea
+                            <h1>Project Idea</h1>
 
-Overview
+<h2>Overview</h2>
 
-My project idea is the production of an app on a mobile device that enables the
+<p>My project idea is the production of an app on a mobile device that enables the
 user, by the touch of a button on their mobile device to let a bus driver know
 when you would like to get off the bus. This app will be user friendly, the app
 will help with the communication barrier between passenger and driver and also
 will help eliminate disease by only the user pressing their phone {and not a
-button that many people have touched throughout the day on the bus}.
+button that many people have touched throughout the day on the bus}.</p>
 
-Motivation
+<h2>Motivation</h2>
 
-My motivation for the project is that as a young adult I utilised the public
+<p>My motivation for the project is that as a young adult I utilised the public
 transport in Sydney daily, I remember thinking when I was on the transport. I
 wonder how many people have touched the buttons or pulled the cord when to get
 off the bus each day. I wonder how much disease and germs were on these buttons?
@@ -407,22 +388,22 @@ for an app as mentioned above. Using raspberry Pi technology will be cheap and
 easily accessible and using assembled technology alongside my app and will
 potentially solve the solution of how the individual mobile device will link to
 each bus and not interfere with other mobile devices and users on the bus at the
-time.
+time.</p>
 
-Description
+<h2>Description</h2>
 
-The features of my app will by unique in that the user will utilise app
+<p>The features of my app will by unique in that the user will utilise app
 individually on each mobile device simultaneously whilst the bus is in motion.
 There will be a led on the bus that lights up which is connected to the
 internet, bus permitting with Wi-Fi? Each led will be registered to a bus number
 on a database. When the user opens the app they enter the bus number, then when
 it is time to get off the bus they press the button on their mobile device, that
 light turns on indicating to the driver that they need to stop. My app will be
-simply called NEXT STOP.
+simply called NEXT STOP.</p>
 
-Tools and technologies
+<h2>Tools and technologies</h2>
 
-A mobile device will be crucial to the execution of this app, it will be user
+<p>A mobile device will be crucial to the execution of this app, it will be user
 friendly and be available for download on android or apple devices.
 
 The app will involve connecting a led to the internet. Registering each light
@@ -437,11 +418,11 @@ I will use Kotlin for android as it seems to be more user friendly than Java for
 android. There is also the possibility of installing raspberry pi’s, this will
 help the light turn on when the passenger would like to get off the bus.
 Raspberry Pi’s are small credit card computers that will help in the control of
-the app and turn the light on the bus when needed.
+the app and turn the light on the bus when needed.<p>
 
-Skills required
+<h2>Skills required</h2>
 
-Skills required are humans to be proactive and use the app instead of the
+<p>Skills required are humans to be proactive and use the app instead of the
 buttons that are built into the bus structure. The app software will need to be
 written, I was thinking of using Kotlin for android and not Java, Kotlin is user
 friendly, fast, and easy to use. Special hardware that will need to be utilised
@@ -449,11 +430,11 @@ would be led light, a raspberry pi and a sim card to ensure mobile device
 internet connection. Once the app is made, the rest of the project should be
 relatively easy, but I think the hardest part might be knowing how to connect
 the led to the bus and the database and getting the mobile phone to work with
-the led.
+the led.</p>
 
-Outcome
+<h2>Outcome</h2>
 
-If my project is successful, the outcome will talk to the state transport
+<p>If my project is successful, the outcome will talk to the state transport
 companies and discuss the potential of installing my project in a couple of
 busses (and trains) to see how app will work in real time. Of course, like any
 project, I will encounter problems and hopefully find solutions to the problems.
@@ -461,4 +442,4 @@ The impact of the development of my app is that it will stop or slow down the
 spread of disease on those buttons that everyone presses on public transport. I
 thought of the idea because we are all in this uncertain covid riddled world
 that we can not escape. A world in which we can only live in and accept change
-daily.
+daily.</p>

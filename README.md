@@ -1,6 +1,6 @@
 <html>
   
-    <h1><title>Assessmennt One</title></h1>
+    <h1>Assessmennt One</h1>
 <div class"mainDetails">
       <div class="profile pic">
         <div id="profile pic">

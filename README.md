@@ -46,6 +46,10 @@ information technology.</p>
 
 <p>My interest in IT started in a computing subject at high school in 1995 or 1996.
 Shortly after I acquired my first mobile phone. This was my first mobile phone.
+<div class="first mobile phone">
+        <div id="first mobile phone">
+            <img src="first mobile phone.jpeg"/>
+      </div>
 I remember this magic moment in technology like it was yesterday, if only I had
 kept the phone to compare it to today technology.</p>
 

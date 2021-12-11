@@ -1,5 +1,5 @@
 <html>
-  <head>
+  
     <h1><title>Assessmennt One</title></h1>
 <div class"mainDetails">
       <div class="profile pic">

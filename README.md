@@ -1,6 +1,6 @@
 <html>
   <head>
-      <title>Assessmennt One</title>
+    <h1><title>Assessmennt One</title></h1>
 <div class"mainDetails">
       <div class="profile pic">
         <div id="profile pic">
@@ -8,12 +8,7 @@
       </div>
       <div id="name">
             <h1> Personal Information</h1>
-      <div>
-
-      <div id="contact details">
-
-            <ul>
-
+    
               <h2>Name: Alana Spicer</h2>
 
               <h2>Student number: s3933582</h2>

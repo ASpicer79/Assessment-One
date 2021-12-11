@@ -84,7 +84,7 @@ make our lives a little easier, unlike back in the day of a paper trail.</P>
 
                           <h1>Ideal job</h1>
 
-<p><a href="3D Artist job advert.pdf"target="_blank">file:///C:/Users/alana/OneDrive/Desktop/RMIT%20degree%20IT/3D%20Artist%20job%20advert.pdf</a></p>
+<a href="ASpicer79.github.io/Users/alana/OneDrive/Desktop/RMIT%20degree%20IT/3D%20Artist%20job%20advert.pdf" target="_blank">PDF.</a>
 
 <h2>3D Artist</h2>
 

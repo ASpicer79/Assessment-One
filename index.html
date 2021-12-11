@@ -1,7 +1,7 @@
 <html>
   <head>
       <title>Assessmennt One</title>
-<div class"mainDetails">        
+<div class"mainDetails">
       <div class="profile pic">
         <div id="profile pic">
             <img src="profile pic.jpg"/>
@@ -40,6 +40,9 @@ a large box (mobile phone back then) and then somewhere in the lesson connecting
 to the world wide web. It was then that my imagination was running wild at the
 possibilities of the future and what could potentially happen with computers and
 information technology.</p>
+
+        <img scr="first mobile phone.jpg"/>
+        
 
               <h3>When did your interest in IT start?</h3>
 

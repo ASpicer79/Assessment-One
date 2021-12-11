@@ -1,5 +1,5 @@
 <html>
-  
+
     <h1>Assessmennt One</h1>
 <div class"mainDetails">
       <div class="profile pic">
@@ -8,14 +8,15 @@
       </div>
       <div id="name">
             <h1> Personal Information</h1>
-    
+
               <h2>Name: Alana Spicer</h2>
 
               <h2>Student number: s3933582</h2>
 
               <h2>Student email address:<a href="mailto:S3933582@rmit.edu.au" target="_blank'>student@rmit.edu.au</a>"</h2>
+              
 
-<p> I am a triplet born and raised as a twin as one triplet sadly passed away just
+<p>I am a triplet born and raised as a twin as one triplet sadly passed away just
 after birth. I am a vibrant mum of two teenagers, and I think an awesome mum and
 wife, well I keep the household running smoothly at least and no one dies
 throughout any given day!!!. I am Australian born, born in Brisbane, Queensland.
@@ -37,7 +38,7 @@ possibilities of the future and what could potentially happen with computers and
 information technology.</p>
 
         <img scr="first mobile phone.jpg"/>
-        
+
 
               <h3>When did your interest in IT start?</h3>
 

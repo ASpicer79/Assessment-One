@@ -13,8 +13,8 @@
 
               <h2>Student number: s3933582</h2>
 
-              <h2>Student email address:<a href="mailto:S3933582@rmit.edu.au" target="_blank">student@rmit.edu.au</a>"</h2>
-              
+              <h2>Student email address:<a href="mailto:S3933582@student.rmit.edu.au" target="_blank">s3933582@student.rmit.edu.au</a></h2>
+
 
 <p>I am a triplet born and raised as a twin as one triplet sadly passed away just
 after birth. I am a vibrant mum of two teenagers, and I think an awesome mum and
@@ -180,9 +180,9 @@ and sectors, and throughout the project lifecycle.</p>
 
 <h4>Want to know more?</h4>
 
-<p>Check out the Unsigned Studio website:</P>
+Check out the Unsigned Studio website:
 
-<a href="https://www.unsignedstudio.com/"target"_blank">www.unsignedstudio.com/a>
+<a href="https://www.unsignedstudio.com">
 
 <p>You can learn more about what it's like to work at Aurecon by visiting the
 careers section of our website.</p>

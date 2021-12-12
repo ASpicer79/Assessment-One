@@ -1,7 +1,10 @@
-body {
+
+html,body {
   background-color: lightblue;
 }
-
+p {
+    color: green;
+  margin-right: 20px;
 h1 {
   color: navy;
   margin-left: 20px;

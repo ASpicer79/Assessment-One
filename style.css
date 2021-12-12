@@ -1,4 +1,4 @@
-html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video {
+html,body,div,h1,h2,h3,h4,h5 {
 border:0;
 font:inherit;
 font-size:100%;
@@ -11,15 +11,15 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #0B132B; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #50AAA9;}
+html, body {background: #4ECDC4; font-family: 'Arial', helvetica, arial, sans-serif; font-size: 12px; color: #2B2D42;}
 
 .clear {clear: both;}
 
 p {
 	font-size: 1em;
-	line-height: 1.4em;
+	line-height: 1.2em;
 	margin-bottom: 20px;
-	color: #709CD1;
+	color: #E86A92;
 }
 
 #cv {

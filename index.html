@@ -96,6 +96,8 @@ make our lives a little easier, unlike back in the day of a paper trail.</P>
  <p>Below is a link to the pdf of the job advert</p>
 
 <a href="ASpicer79.github.io/C:/Users/alana/OneDrive/Desktop/RMIT%20degree%20IT/3D%20Artist%20job%20advert.pdf"target="_blank">3D Artist job advert.pdf</a>
+                                                                                                                              
+<embed src="https://ASpicer79.github.io/3D Artist job advert.pdf" width="600px" height="500px" />                                                                                                                              
 
 <p>I have copied and pasted job advert below incase link above does not work</p>
 

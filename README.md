@@ -16,7 +16,6 @@
       <div class="profile pic">
         <div id="profile pic">
             <img src="profile pic.jpg"/>
-<img src="https://ASpicer79.github.io/profile pic.jpg"/>
       </div>
       <div id="name">
             <h1> Personal Information</h1>
@@ -56,7 +55,7 @@ information technology.</p>
 Shortly after I acquired my first mobile phone. This was my first mobile phone.
 <div class="first mobile phone">
         <div id="first mobile phone">
-            <img src="first mobile phone.jpeg"/>
+            <img src="first mobile phone.jpeg" width="10"/>
       </div>
 I remember this magic moment in technology like it was yesterday, if only I had
 kept the phone to compare it to today technology.</p>
@@ -96,7 +95,7 @@ make our lives a little easier, unlike back in the day of a paper trail.</P>
 
  <p>Below is a link to the pdf of the job advert</p>
 
-<p><a href="3D Artist job advert.pdf"target="_blank">3D Artist job advert.pdf</a></p>
+<a href="3D Artist job advert.pdf" target="_blank">3D Artist job advert.pdf</a>
 
 <p>I have copied and pasted job advert below incase link above does not work</p>
 

@@ -211,7 +211,7 @@ technologies and for various clients and sectors.</p>
 
 <p>Your personality type is:</p>
 
-                            <h4>ESFJ-A</h4>
+                            <h2>ESFJ-A</h2>
 
 <h5>Mind</h5>
 

@@ -1,5 +1,5 @@
 <html>
-
+background: linear-gradient(to right,#81D785,#3B0A47)
 <head>
 
 <link rel="stylesheet"href="style1.css">

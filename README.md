@@ -12,13 +12,7 @@
     <h1>Assessmennt One</h1>
 
 
-<div class"mainDetails">
-      <div class="profile pic">
-        <div id="profile pic">
-            <img src="profile pic.jpg"/>
-<img src="https://ASpicer79.github.io/profile pic.jpg"/>
-      </div>
-      <div id="name">
+
             <h1> Personal Information</h1>
 
               <h2>Name: Alana Spicer</h2>

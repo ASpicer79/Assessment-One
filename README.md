@@ -60,7 +60,7 @@ Shortly after I acquired my first mobile phone. This was my first mobile phone.
             <img src="first mobile phone.jpeg"/>
       </div>
 <p>I remember this magic moment in technology like it was yesterday, if only I had
-kept the phone to compare it to today technology.</p>
+kept the phone to compare it to todays technology.</p>
 
                 <h3>Was there a particular event or person that sparked your interest?</h3>
 

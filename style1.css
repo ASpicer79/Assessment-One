@@ -7,6 +7,11 @@ p {
   color: #709CD1;
 }
 
+img {
+  width: 50%
+  max-width: 100%
+}
+
 h1 { 
     border-bottom: 1px solid #5BC0BE;
     padding: 20px 0 0;

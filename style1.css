@@ -1,4 +1,4 @@
-html body {background #000; font-family: 'Lato', helvetica, arial, sans-sefif; font-size: 16px; color: #8E518D}
+html body {background #000; font-family: 'Lato', helvetica, arial, sans-sefif; font-size: 16px; color: #8E518D; background-image: linear-gradient(black 30%, green 50%, purple 20%)}
 
 p { 
   width:50%;

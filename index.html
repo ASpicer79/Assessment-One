@@ -34,7 +34,7 @@ throughout any given day!!!. I am Australian born, born in Brisbane, Queensland.
 I completed year 12 in 1997. I have completed a certificate 3 in Dental
 Assisting, Certificate 3 in Sterilisation and back many years ago a Certificate
 2 in Information Technology. I am fluent in the English language maybe some
-Australian slang thrown in . I crochet in my spare time and enjoy playing the
+Australian slang thrown in. I crochet in my spare time and enjoy playing the
 Xbox.</p>
 
               <h1>Interests in IT</h1>
@@ -55,11 +55,10 @@ information technology.</p>
 Shortly after I acquired my first mobile phone. This was my first mobile phone.
 <div class="first mobile phone">
         <div id="first mobile phone">
-            <img src=”first mobile phone.jpeg”/>
-
+            <img src="first mobile phone.jpeg"/>
       </div>
 <p>I remember this magic moment in technology like it was yesterday, if only I had
-kept the phone to compare it to today technology.</p>
+kept the phone to compare it to todays technology.</p>
 
                 <h3>Was there a particular event or person that sparked your interest?</h3>
 
@@ -96,7 +95,7 @@ make our lives a little easier, unlike back in the day of a paper trail.</P>
 
  <p>Below is a link to the pdf of the job advert</p>
 
-<a href="3D Artist job advert.pdf" target="_blank">3D Artist job advert.pdf</a>
+<a href="3D Artist job advert.pdf" target="_blank">3D Artist job advert.pdf </a>
 
 <p>I have copied and pasted job advert below incase link above does not work</p>
 

@@ -16,8 +16,6 @@
       <div class="profile pic">
         <div id="profile pic">
             <img src="profile pic.jpg"/>
-<img src="https://ASpicer79.github.io/profile pic.jpg"/>
-            
       </div>
       <div id="name">
             <h1> Personal Information</h1>

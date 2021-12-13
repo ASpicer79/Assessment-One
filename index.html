@@ -95,7 +95,7 @@ make our lives a little easier, unlike back in the day of a paper trail.</P>
 
  <p>Below is a link to the pdf of the job advert</p>
 
-<a href="3D Artist job advert.pdf"target="_blank”>3D Artist job advert.pdf</a>
+<a href="3D Artist job advert.pdf"target="_blank">3D Artist job advert.pdf</a>
 
 <p>I have copied and pasted job advert below incase link above does not work</p>
 
@@ -291,7 +291,7 @@ creative, curious, and adventurous. At other times, you prefer routine. You are
 able to find a great balance between ideas and practicality.
 
 You typically are a good problem-solver. When you are faced with a problem, you
-consider the tried-and true methods,but are also able to think outside the box.
+consider the tried-and true methods, but are also able to think outside the box.
 You are able to handle whatever life throws at you.
 
 People who are moderate in openness to experience are well-suited for careers
@@ -303,7 +303,7 @@ graphic design, or research.</p>
 <p>You are an introvert. While you enjoy spending time with others, you truly get
 your energy by spending time by yourself. Spending too much time around others
 leaves you feeling tired and drained. Others describe you as thoughtful and
-quiet. Being the centre of attention usually makes you feel uncomfortable.
+quiet. Being the center of attention usually makes you feel uncomfortable.
 
 You may not be a social butterfly, but you do an amazing job building
 relationships with others. You find that you typically have a few friends whom
@@ -445,4 +445,3 @@ daily.</p>
 </body>
 
 </html>
-

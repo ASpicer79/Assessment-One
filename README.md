@@ -1,7 +1,8 @@
 <html>
 
 <head>
-
+background-image: radial-gradient(circle, black 30%,
+  green 50%, purple 20%);
 <link rel="stylesheet"href="style1.css">
 
 </head>

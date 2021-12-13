@@ -55,7 +55,7 @@ information technology.</p>
 Shortly after I acquired my first mobile phone. This was my first mobile phone.
 <div class="first mobile phone">
         <div id="first mobile phone">
-            <a href="img src="first mobile phone" align="left" height="48" width="48"></a>
+            <img src="first mobile phone.jpeg"/>
       </div>
 I remember this magic moment in technology like it was yesterday, if only I had
 kept the phone to compare it to today technology.</p>

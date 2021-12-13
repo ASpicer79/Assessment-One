@@ -10,7 +10,7 @@
 
 
     <h1>Assessmennt One</h1>
-
+<hr style="border:2px solid blue"> </hr>
 
 <div class"mainDetails">
       <div class="profile pic">
@@ -25,8 +25,7 @@
               <h2>Student number: s3933582</h2>
 
               <h2>Student email address:<a href="mailto:S3933582@student.rmit.edu.au" target="_blank">s3933582@student.rmit.edu.au</a></h2>
-
-
+          
 <p>I am a triplet born and raised as a twin as one triplet sadly passed away just
 after birth. I am a vibrant mum of two teenagers, and I think an awesome mum and
 wife, well I keep the household running smoothly at least and no one dies

@@ -217,44 +217,44 @@ technologies and for various clients and sectors.</p>
 
 <h5>Mind</h5>
 
-<p>This trait determines how we interact with our environment.
+<p>This trait determines how we interact with our environment.</P>
 
-52%- extraverted
+<p>52%- extraverted</p>
 
-48% - intraverted</p>
+<p>48% - intraverted</p>
 
 <h5>Energy</h5>
 
-<p>This trait shows where we direct our mental energy.
+<p>This trait shows where we direct our mental energy.</p>
 
-41% - intuitive
+<p>41% - intuitive</p>
 
-59%- observant</p>
+<p>59%- observant</p>
 
 <h5>Nature</h5>
 
-<p>This trait determines how we make decisions and cope with emotions.
+<p>This trait determines how we make decisions and cope with emotions.</p>
 
-36% - thinking
+<p>36% - thinking</p>
 
-64% - feeling</p>
+<p>64% - feeling</p>
 
 <h5>Tactics</h5>
 
-<p>This trait reflects our approach to work, planning and decision-making.
+<p>This trait reflects our approach to work, planning and decision-making.</p>
 
-51% - judging
+<p>51% - judging</p>
 
-49% - prospecting</p>
+<p>49% - prospecting</p>
 
 <h5>Identity</h5>
 
 <p>This trait underpins all others, showing how confident we are in our abilities
-and decisions.
+and decisions.</p>
 
-71% - assertive
+<p>71% - assertive</p>
 
-29% - turbulent</p>
+<p>29% - turbulent</p>
 
 <h2>Test Two</h2>
 

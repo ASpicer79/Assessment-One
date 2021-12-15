@@ -1,4 +1,4 @@
-html body {background: #000; font-family: 'Lato', helvetica, arial, sans-sefif; font-size: 16px; color: #8E518D; text-align: Center;}
+html body {background: #000; font-family: 'Lato', helvetica, arial, sans-sefif; font-size: 16px; color: #8E518D;}
 
 p { 
   width:50%;
@@ -7,6 +7,7 @@ p {
   line-height: 1.4em;
   margin-bottom: 20px;
   color: #709CD1;
+}
 
 h1 { 
     border-bottom: 1px solid #5BC0BE;
